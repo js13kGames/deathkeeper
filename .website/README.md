@@ -1,4 +1,7 @@
 ---
+genres:
+  - action
+  - survival
 post: https://timmykokke.com/blog/2022/2022-09-14-js13kgames-postmortem/
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
